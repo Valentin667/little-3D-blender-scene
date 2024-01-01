@@ -1,12 +1,12 @@
 ## Little 3D blender scene with Three.js
 
-<!-- Shader blob with custom fresnel effect and noise shader pass. [Three.js](https://threejs.org/). Les musiques sont récupérés grâce à l'API de [Deezer].(https://developers.deezer.com/login?redirect=/api) J'ai ensuite été libre du choix du design et des objets 3D que je voulais rajouter. -->
+Ceci est ma première scene 3D crée avec blender. En suivant la formation [Three.js Journey](https://threejs-journey.com/), j’ai créé ce model et baked les textures des différents models. Le glb et les textures baked on était importé dans [three.js](https://threejs.org/). Les lucioles et le portail ont étaient animés avec des shaders GLSL.
 
 ## Links
 
-[Live](https://shader-blob.vercel.app/)
+[Live](https://little-3-d-blender-scene.vercel.app/)
 
-[GitHub](https://github.com/Valentin667/shader-blob)
+[GitHub](https://github.com/Valentin667/little-3D-blender-scene)
 
 ## Setup
 
